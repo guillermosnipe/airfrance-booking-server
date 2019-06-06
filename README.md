@@ -10,4 +10,3 @@ Open a terminal, navigate to the main folder and run `npm start`. After a succes
 
 ## Questions
 If you need to reach me please feel free to do it `snipeglk@gmail.com`
-https://github.com/guillermosnipe/airfrance-booking-client
